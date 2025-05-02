@@ -1,0 +1,2 @@
+# Ensure that each instance of `addObserver` is carefully reviewed by @mchilderson, @vmandrychenko, and @rbbowd
+\baddObserver\b
